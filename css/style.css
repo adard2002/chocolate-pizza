@@ -1,0 +1,74 @@
+#delly {
+  font-family: 'Charm';
+  font-size: 40px;
+  margin-left: 50px;
+}
+
+header{
+  padding-top: 15px;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+h1 {
+  font-size: 30px;
+  margin-left: 100px;
+  margin-top: 30px;
+  text-decoration: solid;
+}
+
+body p {
+  font-size: 10px;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+nav p{
+
+}
+header p {
+  margin-left: 50px;
+}
+#logo {
+  position: absolute;
+  top: 15px;
+  padding-right: 15px;
+}
+
+#images {
+  position: absolute;
+  top: 35px;
+  right: 100px;
+}
+
+nav {
+  text-align: center;
+  padding-top: 25px;
+}
+
+#chocolatePizza {
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-top: 50px;
+  width: 90%;
+  height: 750px;
+}
+
+#print {
+  float: right;
+}
+
+#para {
+  font-size: 25px;
+  margin-top: 25px;
+}
+
+section {
+  margin-left: 450px;
+  margin-right: 100px;
+  margin-top: 25px;
+  width: 1000px;
+  height: 500px;
+  background-image: url("../img/list-bg.png");
+  background-repeat: no-repeat;
+}

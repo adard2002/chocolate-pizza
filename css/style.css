@@ -23,9 +23,7 @@ body p {
   margin-right: 100px;
 }
 
-nav p{
 
-}
 header p {
   margin-left: 50px;
 }
@@ -61,14 +59,58 @@ nav {
 #para {
   font-size: 25px;
   margin-top: 25px;
+  margin-right: 100px;
 }
 
-section {
-  margin-left: 450px;
+#img{
+  margin-left: 900px;
   margin-right: 100px;
   margin-top: 25px;
   width: 1000px;
-  height: 500px;
   background-image: url("../img/list-bg.png");
   background-repeat: no-repeat;
+  font-size: 35px
+}
+#list1{
+  float: left;
+}
+#list2{
+  margin-left: 500px;
+}
+
+footer img{
+  margin-left: 100px;
+  margin-top: 5px;
+  position: absolute;
+}
+footer h1{
+  margin-left: 200px;
+}
+footer p{
+  margin-left: 200px;
+  font-size: 18px;
+}
+footer button{
+  /* float: right; */
+  background-color: rgb(235, 100, 11);
+  height: 50px;
+  width: 150px;
+  border: none;
+  color: white;
+  position: absolute;
+  right: 5px;
+  margin-right: 125px;
+}
+
+#Bottom p{
+  margin-top: 50px;
+  color: rgb(250, 245, 245);
+}
+#Bottom img{
+  opacity: 0.5;
+  
+}
+#veryBottom{
+  margin-top: 75px;
+  text-align: center;
 }
